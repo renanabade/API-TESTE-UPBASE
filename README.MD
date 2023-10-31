@@ -5,7 +5,8 @@
 ### Metódo: POST
 
 > ```
-> https://bored-cow-attire.cyclic.app/aluno/cadastro
+> link do deploy: https://bored-cow-attire.cyclic.app/aluno/cadastro
+> rota /aluno/cadastro
 > ```
 
 ### Body (**raw**)
